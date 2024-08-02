@@ -13,9 +13,6 @@ export default function Info() {
 
       <p className="dev">Software Developer</p>
       <div className="btn">
-        <a href="info@sametdulger.com.tr">
-          <button className="button1">Email</button>
-        </a>
         <a href="https://www.linkedin.com/in/sametdulger/">
           <button className="button2">LinkedIn</button>
         </a>
