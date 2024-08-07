@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="tags">
       <footer>
         <a
-          href="https://www.instagram.com/_sametdlgr/"
+          href="https://www.instagram.com/"
           className="fa fa-instagram"
           aria-label="Instagram"
         ></a>
